@@ -1,0 +1,16 @@
+{
+    "name": "My MIDI Controller",
+    "version": "1.0.0",
+    "builds": [
+      {
+        "chipFamily": "ESP32-C3",
+        "parts": [
+          {
+            "path": "https://www.dropbox.com/scl/fi/u2cohyy55n414np7g87lr/xiao_esp32c3_MIDIPAD_POT.ino.bin?rlkey=2jkw8uq326fqdy87mrkt4w79b&dl=0",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  }
+  
